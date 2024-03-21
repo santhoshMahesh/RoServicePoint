@@ -1,10 +1,8 @@
 export const services=[
-    
     {
         "id": 1,
         "service":"Routine Maintenance",
-        "desc": "Regular servicing to clean and maintain the RO system, including filter replacements, membrane cleaning, and sanitization."
-           
+        "desc": "Regular servicing to clean and maintain the RO system, including filter replacements, membrane cleaning, and sanitization."     
     },
     {
         "id": 2,
