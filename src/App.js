@@ -13,9 +13,9 @@ function App() {
       <Navbar />
       <Contact/>
       <Hero />
-      <About />
       <Brands />
       <ServicesOffered />
+      <About />
       <Footer />
     </main>
   );
