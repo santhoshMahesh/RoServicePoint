@@ -17,6 +17,9 @@ function App() {
       <ServicesOffered />
       <About />
       <Footer />
+      <div className='block sm:hidden'>   
+      <Contact />
+      </div>
     </main>
   );
 }
