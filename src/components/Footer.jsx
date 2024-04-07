@@ -13,12 +13,12 @@ import {
 const Footer = () => {
   return (
     <footer className=' bg-[#003060] flex p-2 text-white'>
-        <img src='./test.svg' className='fill-inherit h-[260px] ml-16 sm:mx-auto'/>
+        <img src='./test.svg' className='fill-inherit h-[260px] ml-16  w-[350px] sm:w-1/3 sm:mx-auto'/>
 
 
 
         <div className='hidden sm:block w-full'>
-        <p className='text-left font-bold text-5xl mb-2 '> Bengaluru, contact RO service point to get the best service in industry</p> 
+        <p className='text-left font-bold text-5xl mb-2 p-2 '> Bengaluru!! contact RO service point to get the best service in industry</p> 
 
         <div className='flex h-3 text-3xl my-4 '>
           Phone:-<FaPhoneAlt />  +91 77-606-83428

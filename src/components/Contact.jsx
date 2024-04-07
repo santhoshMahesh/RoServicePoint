@@ -3,7 +3,7 @@ import { FaPhoneAlt } from "react-icons/fa";
 
 const Contact = () => {
   return (
-    <div className='bg-gradient-to-r from-red-500 to-orange-500  text-lg font-bold text-yellow-400/95'>
+    <div id='contact' className='bg-gradient-to-r from-red-500 to-orange-500  text-lg font-bold text-yellow-400/95'>
       <i>
 
       <div className='flex flex-row justify-center '>

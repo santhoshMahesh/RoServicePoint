@@ -1,7 +1,7 @@
 import React from 'react';
 const Hero = () => {
   return (
-    <div className='mx-auto p-4'>
+    <div id="home" className='mx-auto w-full p-4'>
       <div className='max-h-[500px] relative'>
         {/* Overlay */}
         <div className='absolute w-full h-full text-gray-200 max-h-[500px] bg-black/40 flex flex-col justify-center'>
