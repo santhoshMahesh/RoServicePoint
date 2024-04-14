@@ -24,8 +24,8 @@ const Footer = () => {
           Phone:-<FaPhoneAlt />  +91 77-606-83428
         </div>
     
-        <h2 className='font-semibold mt-16 mb-1'>Also you can reach us out on</h2>
-      <div className='flex gap-5'>
+     <h2 className='font-semibold mt-16 mb-1'>Also you can reach us out on</h2>
+       <div className='flex gap-5'>
           <a href="https://www.youtube.com/c/jamesqquick">
             <FontAwesomeIcon icon={faYoutube} style={{"color": "#eb3223"}} size="2x"  />
           </a>
@@ -41,7 +41,7 @@ const Footer = () => {
           <a href="https://www.youtube.com/c/jamesqquick">
             <FontAwesomeIcon icon={faLinkedin} style={{"color": "#0077B5","border-radius":"2%"}} size="2x"  />
           </a>
-      </div>
+      </div> 
         </div>
     </footer>
   )
